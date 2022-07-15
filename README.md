@@ -6,3 +6,6 @@ Basic operations in Numpy, Scipy, Pandas, and Matplotlib
 Vector, Matrix, and Tensor manipulation
 Visualizing data
 Reading, writing, and manipulating DataFrames
+
+# ME
+Things I found important before jumping into deep learning
